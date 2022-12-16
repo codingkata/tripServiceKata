@@ -9,7 +9,7 @@
    <properties>
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>${maven.compiler.source}</maven.compiler.target>
-        <spring.version>3.1.1.RELEASE</spring.version>
+        <spring.version>5.2.20.RELEASE</spring.version>
 
         <junit-jupiter.version>5.4.2</junit-jupiter.version>
         <!-- optional : if we want to use a junit4 specific version -->
